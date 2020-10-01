@@ -51,7 +51,7 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git https://github.com/MrHarshArora/CyberGhostWeapon.git
+git clone https://github.com/MrHarshArora/CyberGhostWeapon.git
 cd CyberGhostWeapon
 chmod +x CyberGhostWeapon.sh
 ./CyberGhostWeapon.sh
