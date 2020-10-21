@@ -104,7 +104,7 @@ sudo bash CyberGhostWeapon.sh
 
 ## Demontrative Video:
 
-- Watch Indian Bombing Method <a href="#">here</a><br>
+- Watch Indian Bombing Method <a href="https://www.youtube.com/watch?v=3OGGi0AtCB8&t=12s&ab_channel=CyberGhost">here</a><br>
 
 Feel Free To Open An Issue...
 
